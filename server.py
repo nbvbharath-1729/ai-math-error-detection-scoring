@@ -35,14 +35,15 @@ def evaluate():
             return jsonify({'error': 'No prompt received'}), 400
 
         models_to_try = [
-            "gemini-1.5-flash",
-            "gemini-2.5-flash",
-            "gemini-3.6-flash"
+            "gemini-3.6-flash",
+            "gemini-3.5-flash",
+            "gemini-3.7-flash",
+            "gemini-2.5-flash"
         ]
 
         last_error = None
 
-        for attempt in range(3):
+        for attempt in range(4):
             for model_name in models_to_try:
                 try:
                     response = client.models.generate_content(
