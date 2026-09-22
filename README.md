@@ -133,11 +133,16 @@ Open `index.html` in your browser. The tool is ready to use.
 
 ---
 
-## Website Interface
+## Screenshot
+### Website Interface
+![Website interface](website_ui.png)
 
-### Screenshot
+### Final Scores
+![Final score1](evaluation1.png)
+![Final score2](evaluation2.png)
 
-![Tool Screenshot]()
+---
+
 ## Related Project
 
 This tool was built as part of a two-project LLM evaluation series:
