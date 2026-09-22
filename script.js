@@ -295,6 +295,7 @@ Sign Error
 Unit Error
 Symbol Error
 Incomplete Solution
+Mutiple Errors
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
