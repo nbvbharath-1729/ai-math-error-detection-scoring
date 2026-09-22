@@ -133,6 +133,11 @@ Open `index.html` in your browser. The tool is ready to use.
 
 ---
 
+## Website Interface
+
+### Screenshot
+
+![Tool Screenshot]()
 ## Related Project
 
 This tool was built as part of a two-project LLM evaluation series:
