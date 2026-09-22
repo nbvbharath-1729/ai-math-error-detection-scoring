@@ -147,7 +147,7 @@ Open `index.html` in your browser. The tool is ready to use.
 
 This tool was built as part of a two-project LLM evaluation series:
 
-- **Project 1:** [LLM Math Response Evaluation Dataset](https://github.com/yourusername/llm-math-evaluation-dataset)
+- **Project 1:** [LLM Math Response Evaluation Dataset](https://github.com/nbvbharath-1729/llm-math-evaluation-dateset)
   — 150 manually annotated AI math responses across GPT-4o, Claude, and Gemini
 
 - **Project 2:** This tool — automated scoring system validated against the
